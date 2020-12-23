@@ -12,6 +12,6 @@ import (
 )
 
 func main() {
-        fmt.Println(ʕʘϖʘʔ.Ꮷಠ_ಠ("vim-go"))
+        fmt.Println(ʕʘϖʘʔ.Ꮷಠ_ಠ("ʕʘϖʘʔ powered"))
 }
 ```
