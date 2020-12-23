@@ -4,5 +4,14 @@ Want some meo power in your Go code ?
 Here is package ʕʘϖʘʔ
 
 ```go
-import "ʕʘϖʘʔ"
+package main
+
+import (
+        "fmt"
+        ʕʘϖʘʔ "github.com/mengzhuo/meo"
+)
+
+func main() {
+        fmt.Println(ʕʘϖʘʔ.Ꮷಠ_ಠ("vim-go"))
+}
 ```
